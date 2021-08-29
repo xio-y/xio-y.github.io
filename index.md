@@ -1,4 +1,4 @@
-## AAAAA  Welcome to GitHub Pages
+## AAAAA  Welcaome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/xio-y/xio.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
